@@ -1,0 +1,10 @@
+| Algorithm   | Best Case  | Average Case | Worst Case |
+| ----------- | ---------- | ------------ | ---------- |
+| Bubble Sort | O(n)       | O(n²)        | O(n²)      |
+| Quick Sort  | O(n log n) | O(n log n)   | O(n²)      |
+
+Bubble Sort is simple but inefficient for large datasets.
+
+Quick Sort is much faster on average and suitable for large-scale applications.
+
+Quick Sort is generally preferred due to its divide-and-conquer strategy and in-place sorting.
