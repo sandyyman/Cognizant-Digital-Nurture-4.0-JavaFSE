@@ -1,0 +1,6 @@
+Optimization:
+  Usage of Dynamic Programming to improve the memoization
+
+Time Complexity: O(n)
+
+Recursion: Methods calls itself to break a problem into smaller sub problems

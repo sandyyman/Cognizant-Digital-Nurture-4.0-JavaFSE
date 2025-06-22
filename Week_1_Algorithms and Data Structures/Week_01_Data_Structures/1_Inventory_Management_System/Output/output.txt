@@ -1,0 +1,30 @@
+Why are data structures and algorithms essential?
+In a large inventory system, we may need to:
+Store and retrieve thousands of products.
+Frequently update quantities or prices.
+Search for products quickly by ID.
+
+Data Structures help us:
+  Store data efficiently.
+  Access, update, or remove data in optimal time.
+
+Algorithms ensure:
+  Operations like searching and sorting are fast and accurate.
+  We use minimal memory and CPU cycles.
+
+Suitable Data Strucutes
+  ArrayList:For ordered data access, but TC:O(n)
+  HashMap:For faster access TC:O(n)
+  TreeMap:Useful when sorted order is required TC:O(nlogn)
+
+Operation	Time Complexity (Average)	Explanation
+
+addProduct()	O(1)	HashMap inserts in constant time.
+updateProduct()	O(1)	Direct lookup by productId.
+deleteProduct()	O(1)	Direct deletion by key.
+viewInventory()	O(n)	Must traverse all products.
+
+
+Optimizations
+We can use LinkedHashMap for faster retrieval
+Also we can use Database for faster and smooth access of the data.

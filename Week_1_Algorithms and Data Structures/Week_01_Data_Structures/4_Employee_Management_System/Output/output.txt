@@ -1,0 +1,8 @@
+Limitations of Arrays
+  Fixed Size
+  No dynamic resizing
+  Deletion requires shifitng
+
+Use arrays when:
+  Size is known and fixed
+  Fast indexed access is needed
