@@ -1,4 +1,0 @@
-Singleton Pattern:
-  Restricts the instantiation of a class to a single object
-  Ensures a global point of access to that instances
-  Used in logging, configuration, cache, thread pools etc
