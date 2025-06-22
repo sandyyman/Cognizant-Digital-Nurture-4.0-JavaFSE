@@ -1,0 +1,8 @@
+Linear Search
+  Checks each element
+  Time Complexity is O(n)
+
+Binary Search
+  Requires sorted data
+  Divides the array in halves to search
+  Time Complexity is O(log n)
