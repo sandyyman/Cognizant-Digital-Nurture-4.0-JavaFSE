@@ -1,1 +1,1 @@
-
+Configured a local repo and remote repo and added the first text file and the process as the output in the images
